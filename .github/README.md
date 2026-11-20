@@ -29,8 +29,8 @@ Ausführlich steht alles in der **LIESMICH.txt** im ZIP.
 
 ## Stimme
 
-Diese Ausgabe enthält **keine trainierte Friday-Stimme**. Friday spricht mit der besten deutschen macOS-Stimme
-(am schönsten mit einer „Premium“-Stimme, z. B. Anna) – optional über **ElevenLabs** mit deinem eigenen API-Schlüssel
+Diese Ausgabe enthält **keine trainierte Friday-Stimme**. Friday spricht mit der besten installierten deutschen
+macOS-Stimme (am schönsten mit einer „Premium“-Stimme) – optional über **ElevenLabs** mit deinem eigenen API-Schlüssel
 (liegt nur im macOS-Schlüsselbund). Eine eigene lokale Piper-Stimme lässt sich in den Einstellungen einrichten.
 
 ## Voraussetzungen
