@@ -10,6 +10,14 @@ Spracherkennung und Steuerung laufen lokal auf dem Mac.
 
 Alle Versionen: [Releases](https://github.com/Arachnolord/fah-friday/releases) · für Macs mit Apple-Chip (M1 und neuer)
 
+## So sieht sie aus
+
+| Menü in der Menüleiste | Einstellungen |
+|---|---|
+| <img src="screenshots/1-menue.png" alt="Friday-Menü" width="300"> | <img src="screenshots/2-einstellungen.png" alt="Einstellungen" width="420"> |
+
+<img src="screenshots/3-hud.png" alt="HUD" width="90"> &nbsp; Das schwebende HUD zeigt, ob Friday zuhört oder spricht – am Leucht-Ring frei verschiebbar.
+
 ## Erster Start
 
 1. ZIP entpacken.
